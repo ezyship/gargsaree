@@ -1,22 +1,5 @@
 [
   {
-    "title": "Cross Stitch Embroidery Dress",
-    "price": "675",
-    "category": "embroidery",
-    "description": "Top And Duppta ",
-    "id": "1776880215333",
-    "images": [
-      "images/1776880215358-199.jpg",
-      "images/1776880218258-880.jpg",
-      "images/1776880220937-918.jpg",
-      "images/1776880223923-980.jpg",
-      "images/1776880227122-815.jpg",
-      "images/1776880230463-941.jpg",
-      "images/1776880233864-95.jpg",
-      "images/1776880236982-780.jpg"
-    ]
-  },
-  {
     "title": "Hand Block Printed Suits",
     "price": "495",
     "category": "block-print",
