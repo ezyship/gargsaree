@@ -1,5 +1,23 @@
 [
   {
+    "title": "kota silk",
+    "price": "2650",
+    "category": "handwork",
+    "description": "pure kota silk fabric\nDress material \nPeeta work/ Gota work\nShirt n dupatta only \nLength 2.5mtr each ",
+    "id": "1786782868467",
+    "images": [
+      "images/1786782868476-817.jpg",
+      "images/1786782870442-288.jpg",
+      "images/1786782872324-543.jpg",
+      "images/1786782874134-512.jpg",
+      "images/1786782875968-293.jpg",
+      "images/1786782877812-866.jpg",
+      "images/1786782879498-16.jpg",
+      "images/1786782881545-885.jpg",
+      "images/1786782883449-446.jpg"
+    ]
+  },
+  {
     "title": "pure kota print",
     "price": "875",
     "category": "block-print",
